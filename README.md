@@ -1,1 +1,3 @@
-This repository contains an freelance architecture for a data pipeline from RAW data passing through Kakfa untill PowerBI
+This project freelance project as the objective is to build an autonomous data pipeline.
+
+In main folder source myenv/bin/activate
