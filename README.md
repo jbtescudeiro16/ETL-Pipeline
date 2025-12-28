@@ -1,0 +1,1 @@
+This repository contains an freelance architecture for a data pipeline from RAW data passing through Kakfa untill PowerBI
